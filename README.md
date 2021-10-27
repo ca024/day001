@@ -1,4 +1,4 @@
 # day001
 Creating my first HTML page
 
-![Hello, world!](https://github.com/ca024/images/tree/main/day001)
+![Hello, world!](https://github.com/ca024/images/blob/main/day001/hello_world.JPG)
